@@ -1,0 +1,16 @@
+.barra-de-vida {
+    background-color: green;
+    padding: 40px;
+    width: 100%;
+}
+.barra-de-vida-limo {
+    background-color: green;
+    padding: 40px;
+    width: 100%;
+}
+.btn {
+    padding: 24px;
+    border: none;
+    background-color: rgb(77, 77, 252);
+    color: white;
+}
